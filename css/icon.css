@@ -1,0 +1,15 @@
+.role-wrapper {
+    margin-bottom: 0.5em;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.role {
+    display: inline-block;
+    margin: 0;
+}

@@ -1,0 +1,4 @@
+In this role, I tutored 20 students in intermediate Python programming
+courses. I enabled students to become independent programmers by discussing
+debugging techniques. Also, I helped explain object oriented programming
+topics in more detail by providing illustrations and examples.

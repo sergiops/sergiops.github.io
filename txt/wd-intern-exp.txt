@@ -1,0 +1,10 @@
+In the Summer of 2018, I successfully completed my first internship
+at Western Digital. During my time there, I created a web portal to manage
+over-the-air software updates for over 10,000 devices. My role mainly focused
+on creating the front-end using React. However, I was also able to add functionality
+to the back-end using Python. Due to the amount of devices being managed, the
+biggest challenge was ensuring that the app could operate at large scales. In order
+to address that challenge, caches were used and throttling algorithms were implemented.
+Once the app was deployed, the primary users of the app included my manager and the quality
+assurance team. Lastly, I published the documentation to an internal wiki,
+and tracked development progress using Git and JIRA.

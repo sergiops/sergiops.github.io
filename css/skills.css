@@ -1,0 +1,13 @@
+.skills-preview-list {
+    margin-bottom: 1rem;
+    padding: 0;
+}
+
+.skills-preview-list > li {
+    color: #79bac2;
+    background-color: #202020;
+    font-size: 0.8rem;
+    display: inline-block;
+    padding: 0.25em 1em 0.25em 1em;
+    border-radius: 25px;
+}

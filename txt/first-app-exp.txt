@@ -1,0 +1,5 @@
+For this project I decided to create the game Tic-Tac-Toe. While
+developing this I was able to exercise my knowledge of Model-View-Controller
+design patterns. Also, I became familiar with using storyboards and
+auto layout in Xcode. Finally, I learned about View Controllers and used the
+CoreAnimation and CoreGraphics APIs to create the app.

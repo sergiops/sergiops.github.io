@@ -1,0 +1,5 @@
+Created a productivity add-on for Google Sheets to enabled instructors
+to grade homework more efficiently in team based learning environments. Afterwards,
+the add-on was deployed and used in a university physics course with 400 students.
+During the development process, I was also responsible for testing the system and
+ensuring that all requirements were met.
